@@ -1,3 +1,3 @@
-#### gb-data-mining-kadnikov-dv
+#### gb-data-mining-kadnikov-dv-05-2021
 Методы сбора и обработки данных при помощи Python
 Основы клиент-серверного взаимодействия. Парсинг API
